@@ -11,6 +11,8 @@ import {
   handleFrontendConnection,
 } from "./sessionManager";
 import functions from "./functionHandlers";
+const fs = require('fs');
+const path = require('path');
 
 dotenv.config();
 
@@ -25,6 +27,7 @@ if (!OPENAI_API_KEY) {
 
 const app = express();
 app.use(cors());
+app.use(express.json());
 const server = http.createServer(app);
 const wss = new WebSocketServer({ server });
 
@@ -49,6 +52,19 @@ app.all("/twiml", (req, res) => {
 // New endpoint to list available tools (schemas)
 app.get("/tools", (req, res) => {
   res.json(functions.map((f) => f.schema));
+});
+
+app.post("/boogit/save-menu", (req, res) => {
+  console.log("Boogit webhook received save-menu", req.body);
+  try {
+    const menu_name = `menu_${req.body.clientId}.json`;
+    const menuPath = path.join(__dirname, 'services', 'boogit', menu_name);
+    fs.writeFileSync(menuPath, JSON.stringify(req.body, null, 2));
+    console.log(`Menu saved to ${menu_name}`);
+  } catch (err) {
+    console.error('Error saving menu:', err);
+  }
+  res.json({ message: "Webhook received" });
 });
 
 let currentCall: WebSocket | null = null;

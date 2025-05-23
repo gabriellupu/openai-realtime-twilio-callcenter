@@ -1,0 +1,5394 @@
+{
+  "clientId": "call_center_1",
+  "categories": [
+    {
+      "id": "74051091",
+      "items": [
+        {
+          "id": "2615898",
+          "name": "Party 3 Formaggio - 1.600g",
+          "description": "extra topping pizza First/mozzarella, sos de roșii, telemea, parmezan, roșii felii. Alergeni: Gluten, Ouă, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615898",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615898",
+          "basePrice": 75.5,
+          "price": 75.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615857",
+          "name": "Party Bada Bing - 1.600g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ceafă afumată, roșii felii, ardei gras. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615857",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615857",
+          "basePrice": 75.5,
+          "price": 75.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615901",
+          "name": "Party Braşoveană - 1.750g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, porumb (produs congelat), măsline negre întregi, ardei gras, mușchi file. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615901",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615901",
+          "basePrice": 76,
+          "price": 76,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615845",
+          "name": "Party Capriciosa - 1.550g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, măsline negre întregi. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615845",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615845",
+          "basePrice": 71,
+          "price": 71,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615907",
+          "name": "Party Carnivora - 1.900g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, ciuperci, mușchi file, salam de vară, cabanos. Alergeni: Gluten, Soia, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615907",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615907",
+          "basePrice": 79,
+          "price": 79,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615919",
+          "name": "Party Deluxe - 2.100g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, salam uscat, specialitate bacon, piept de pui (produs congelat), telemea, ciuperci, măsline negre întregi, parmezan. Alergeni: Gluten, Ouă, Lapte, Țelină, Soia, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615919",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615919",
+          "basePrice": 86,
+          "price": 86,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615839",
+          "name": "Party Margherita - 1.400g",
+          "description": "extra topping pizza First/mozzarella, sos de roșii. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615839",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615839",
+          "basePrice": 65.5,
+          "price": 65.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615913",
+          "name": "Party Multipizza - 2.000g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, măsline negre întregi, porumb (produs congelat), salam de vară, mușchi file, ardei gras, cabanos. Alergeni: Gluten, Soia, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615913",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615913",
+          "basePrice": 80,
+          "price": 80,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615886",
+          "name": "Party Picantă - 1.600g",
+          "description": "topping pizza First/mozzarella, sos picant, salam uscat picant, șuncă, ardei iute. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615886",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615886",
+          "basePrice": 73.5,
+          "price": 73.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615889",
+          "name": "Party Pollo - 1.600g",
+          "description": "topping pizza First/mozzarella, sos de roșii, piept de pui (produs congelat), roșii felii, măsline negre întregi. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615889",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615889",
+          "basePrice": 74.5,
+          "price": 74.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615842",
+          "name": "Party Prosciutto e Funghi - 1.500g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615842",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615842",
+          "basePrice": 67.5,
+          "price": 67.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615892",
+          "name": "Party Prosciutto Muşchiuleţ - 1.700g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, mușchi file. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615892",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615892",
+          "basePrice": 75,
+          "price": 75,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615848",
+          "name": "Party Prosciutto Salami - 1.600g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, măsline negre întregi, salam uscat. Alergeni: Gluten, Lapte, Țelină, Soia, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615848",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615848",
+          "basePrice": 72,
+          "price": 72,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615851",
+          "name": "Party Quatro Stagioni - 1.600g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, porumb (produs congelat), măsline negre întregi. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615851",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615851",
+          "basePrice": 72,
+          "price": 72,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615854",
+          "name": "Party Quatro Stagioni cu Ceapă-1.630g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, porumb (produs congelat), măsline negre întregi, ceapă. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615854",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615854",
+          "basePrice": 72.5,
+          "price": 72.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615904",
+          "name": "Party Specială - 1.850g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, ardei gras, porumb (produs congelat), legume mexicane (produs congelat), mușchi file, ceafă afumată. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615904",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615904",
+          "basePrice": 78.5,
+          "price": 78.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615916",
+          "name": "Party Suprema - 2.200g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, măsline negre întregi, porumb (produs congelat), usturoi, ceapă, ardei gras, roșii felii, salam uscat, specialitate bacon, cabanos. Alergeni: Gluten, Lapte, Țelină, Soia, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615916",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615916",
+          "basePrice": 84,
+          "price": 84,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615895",
+          "name": "Party Ţărănească - 1.700g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, cabanos, ceapă, porumb (produs congelat), ardei gras. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615895",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615895",
+          "basePrice": 75,
+          "price": 75,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2615910",
+          "name": "Party Vegetariană - 2.000g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, legume mexicane (produs congelat), măsline negre întregi, roșii felii, ardei gras. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615910",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2615910",
+          "basePrice": 79,
+          "price": 79,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "5868859",
+          "name": "Party Royal - 2.200g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, jambon, salam bănățean, ciuperci, porumb (produs congelat), roșii feliate, măsline verzi întregi, măsline negre întregi. Alergeni: Gluten, Soia, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5868859",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5868859",
+          "basePrice": 79.5,
+          "price": 79.5,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "5868920",
+          "name": "Party Chicken Deluxe - 2.200g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, porumb (produs congelat), măsline, piept de pui (produs congelat), șuncă de pui, telemea, roșii, ardei gras. Alergeni: Gluten, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5868920",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5868920",
+          "basePrice": 82.4,
+          "price": 82.4,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "20400160",
+          "name": "Party Rustica - 1.750g",
+          "description": "topping pizza First/mozzarella, sos de roșii, specialitate bacon, ciuperci, ardei iute, ardei gras, cabanos, ceapă. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-20400160",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-20400160",
+          "basePrice": 77,
+          "price": 77,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "24322548",
+          "name": "Party Felicia - 1.700g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, porumb (produs congelat), măsline negre întregi, salam Chorizo. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-24322548",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-24322548",
+          "basePrice": 74,
+          "price": 74,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "35756202",
+          "name": "OFERTA Party Emiliana - 1.900g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, salam uscat, mușchi file, specialitate bacon, porumb (produs congelat), măsline negre feliate.  + 3 Doze Suc 0,33l GRATUIT!  Alergeni: Gluten, Lapte, Țelină, Soia, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-35756202",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-35756202",
+          "basePrice": 90.9,
+          "price": 90.9,
+          "attributeGroups": [
+            {
+              "id": "53406763",
+              "title": "Alege sucurile gratuite:",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "53408037",
+                  "name": "Coca-Cola 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408113",
+                  "name": "Fanta 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408145",
+                  "name": "Sprite 0,33l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70655660",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655926",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "35756683",
+          "name": "OFERTA Party Carciofina - 1.750g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, salam de vară, salam Chorizo, ciuperci, ardei gras, porumb (produs congelat), anghinare, măsline negre feliate.  + 3 Doze Suc 0,33l GRATUIT!  Alergeni: Gluten, Soia, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-35756683",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-35756683",
+          "basePrice": 89.9,
+          "price": 89.9,
+          "attributeGroups": [
+            {
+              "id": "53406763",
+              "title": "Alege sucurile gratuite:",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "53408037",
+                  "name": "Coca-Cola 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408113",
+                  "name": "Fanta 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408145",
+                  "name": "Sprite 0,33l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70655660",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655926",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "35758674",
+          "name": "OFERTA Party Porcelina - 1.900g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, salam de vară, salam Chorizo, salam uscat, ciuperci, anghinare, măsline negre feliate.  + 3 Doze Suc 0,33l GRATUIT!  Alergeni: Gluten, Soia, Lapte, Țelină, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-35758674",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-35758674",
+          "basePrice": 90.9,
+          "price": 90.9,
+          "attributeGroups": [
+            {
+              "id": "53406763",
+              "title": "Alege sucurile gratuite:",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "53408037",
+                  "name": "Coca-Cola 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408113",
+                  "name": "Fanta 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408145",
+                  "name": "Sprite 0,33l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70655660",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655926",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "35759616",
+          "name": "OFERTA Party Tonno - 1.750g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ton bucăți în suc propriu, ceapă, lămâie, măsline negre feliate.  + 3 Doze Suc 0,33l GRATUIT!  Alergeni: Gluten, Pește, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-35759616",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-35759616",
+          "basePrice": 93.5,
+          "price": 93.5,
+          "attributeGroups": [
+            {
+              "id": "53406763",
+              "title": "Alege sucurile gratuite:",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "53408037",
+                  "name": "Coca-Cola 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408113",
+                  "name": "Fanta 0,33l",
+                  "price": 0
+                },
+                {
+                  "id": "53408145",
+                  "name": "Sprite 0,33l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70655660",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655926",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "93844325",
+          "name": "OFERTA Party Eggsclusive - 1.950g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, salam uscat, cabanos, ciuperci, porumb (produs congelat), ouă bătute +1 suc GRATUIT la 1l!  Alergeni: Gluten, Ouă, Lapte, Țelină, Soia, Nuci, Muștar.",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-93844325",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-93844325",
+          "basePrice": 88.7,
+          "price": 88.7,
+          "attributeGroups": [
+            {
+              "id": "53406269",
+              "title": "Alege sucul gratuit:",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "53413404",
+                  "name": "Coca-Cola 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413534",
+                  "name": "Fanta 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413592",
+                  "name": "Sprite 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "93845549",
+          "name": "OFERTA Party Eggsigenzza - 1.950g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, specialitate bacon, roșii felii, ardei gras, usturoi, ouă bătute +1 suc GRATUIT la 1l!  Alergeni: Gluten, Ouă, Lapte, Țelină ",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-93845549",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-93845549",
+          "basePrice": 86.9,
+          "price": 86.9,
+          "attributeGroups": [
+            {
+              "id": "53406269",
+              "title": "Alege sucul gratuit:",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "53413404",
+                  "name": "Coca-Cola 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413534",
+                  "name": "Fanta 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413592",
+                  "name": "Sprite 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "93846360",
+          "name": "OFERTA Party Eggsperienzza - 2.100g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, roșii felii, telemea, ouă bătute, măsline negre feliate +1 suc GRATUIT la 1l!  Alergeni: Gluten, Ouă, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-93846360",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-93846360",
+          "basePrice": 88.9,
+          "price": 88.9,
+          "attributeGroups": [
+            {
+              "id": "53406269",
+              "title": "Alege sucul gratuit:",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "53413404",
+                  "name": "Coca-Cola 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413534",
+                  "name": "Fanta 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413592",
+                  "name": "Sprite 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "93848148",
+          "name": "OFERTA Party Eggstravaganzza - 1.750g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, salam Chorizo, ardei gras, ouă bătute, măsline negre feliate +1 suc GRATUIT la 1l! Alergeni: Gluten, Ouă, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-93848148",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-93848148",
+          "basePrice": 87,
+          "price": 87,
+          "attributeGroups": [
+            {
+              "id": "53406269",
+              "title": "Alege sucul gratuit:",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "53413404",
+                  "name": "Coca-Cola 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413534",
+                  "name": "Fanta 1l",
+                  "price": 0
+                },
+                {
+                  "id": "53413592",
+                  "name": "Sprite 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        }
+      ],
+      "name": "Pizza Party",
+      "position": 1,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2615898"
+    },
+    {
+      "id": "74051198",
+      "items": [
+        {
+          "id": "2614116",
+          "name": "Pizza 3 Formaggio - 450g",
+          "description": "extra topping pizza First/mozzarella, sos de roșii, telemea, parmezan, roșii felii. Alergeni: Gluten, Ouă, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614116",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614116",
+          "basePrice": 32.9,
+          "price": 32.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614163",
+          "name": "Pizza Arcadia - 400g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, telemea, specialitate bacon, măsline negre întregi. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614163",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614163",
+          "basePrice": 32,
+          "price": 32,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614034",
+          "name": "Pizza Bada Bing - 450g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ceafă afumată, roșii felii, ardei gras. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614034",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614034",
+          "basePrice": 32,
+          "price": 32,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2613966",
+          "name": "Pizza Braşoveană - 550g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, porumb (produs congelat), măsline negre întregi, ardei gras, mușchi file. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2613966",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2613966",
+          "basePrice": 32.3,
+          "price": 32.3,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2613983",
+          "name": "Pizza Carnivora - 500g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, mușchi file, cabanos, salam de vară. Alergeni: Gluten, Soia, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2613983",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2613983",
+          "basePrice": 32.3,
+          "price": 32.3,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614018",
+          "name": "Pizza Casei - 450g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, ciuperci, specialitate bacon. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614018",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614018",
+          "basePrice": 31.1,
+          "price": 31.1,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2613920",
+          "name": "Pizza Diavolo - 420g",
+          "description": "topping pizza First/mozzarella, sos picant, salam uscat picant, ardei iute. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2613920",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2613920",
+          "basePrice": 30,
+          "price": 30,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614240",
+          "name": "Pizza Margherita - 450g",
+          "description": "extra topping pizza First/mozzarella, sos de roșii. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614240",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614240",
+          "basePrice": 28.9,
+          "price": 28.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614124",
+          "name": "Pizza Pepperoni - 430g",
+          "description": "topping pizza First/mozzarella, sos de roșii, salam Chorizo, telemea. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614124",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614124",
+          "basePrice": 34.4,
+          "price": 34.4,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2613934",
+          "name": "Pizza Pollo - 420g",
+          "description": "topping pizza First/mozzarella, sos de roșii, piept de pui (produs congelat), roșii felii. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2613934",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2613934",
+          "basePrice": 30,
+          "price": 30,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614127",
+          "name": "Pizza Prosciutto Crudo - 450g",
+          "description": "topping pizza First/mozzarella, sos de roșii, prosciutto crudo, rucola, parmezan. Alergeni: Gluten, Ouă, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614127",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614127",
+          "basePrice": 36.9,
+          "price": 36.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614006",
+          "name": "Pizza Prosciutto e Funghi - 450g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, ciuperci. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614006",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614006",
+          "basePrice": 29.4,
+          "price": 29.4,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614148",
+          "name": "Pizza Prosciutto Muşchiuleţ - 420g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, mușchi file. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614148",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614148",
+          "basePrice": 30.7,
+          "price": 30.7,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614028",
+          "name": "Pizza Prosciutto Salami - 450g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, măsline negre întregi, salam uscat. Alergeni: Gluten, Lapte, Țelină, Soia, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614028",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614028",
+          "basePrice": 30.9,
+          "price": 30.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2613886",
+          "name": "Pizza Quatro Stagioni - 480g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, șuncă, porumb (produs congelat), măsline negre întregi. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2613886",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2613886",
+          "basePrice": 30.9,
+          "price": 30.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614060",
+          "name": "Pizza Rustică - 480g",
+          "description": "topping pizza First/mozzarella, sos de roșii, specialitate bacon, ciuperci, ardei iute, ardei gras, cabanos, ceapă. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614060",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614060",
+          "basePrice": 32.4,
+          "price": 32.4,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614056",
+          "name": "Pizza Specială - 470g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, ardei gras, porumb (produs congelat), legume mexicane (produs congelat), mușchi file, ceafă afumată. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614056",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614056",
+          "basePrice": 33,
+          "price": 33,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614120",
+          "name": "Pizza Tonno - 420g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ton bucăți în suc propriu, ceapă, lămâie, măsline negre întregi. Alergeni: Gluten, Pește, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614120",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614120",
+          "basePrice": 34.9,
+          "price": 34.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2614186",
+          "name": "Pizza Ţărănească - 520g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă, porumb (produs congelat), ardei gras, ceapă, cabanos. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614186",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2614186",
+          "basePrice": 30.9,
+          "price": 30.9,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "2613942",
+          "name": "Pizza Vegetariană - 550g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ciuperci, legume mexicane (produs congelat), măsline negre întregi, roșii felii, ardei gras. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2613942",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2613942",
+          "basePrice": 31.1,
+          "price": 31.1,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "199269846",
+          "name": "Pizza Eggscelenzza - 450g",
+          "description": "topping pizza, sos de roșii, șuncă, cabanos, ardei gras, ouă bătute, măsline negre întregi  Alergeni: Gluten, Ouă, Lapte, Țelină",
+          "basePrice": 31.3,
+          "price": 31.3,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        }
+      ],
+      "name": "Pizza mica",
+      "position": 2,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2614116"
+    },
+    {
+      "id": "74051134",
+      "items": [
+        {
+          "id": "19874881",
+          "name": "Family Prosciutto - 1.000g",
+          "description": "topping pizza First/mozzarella, sos de roșii, prosciutto crudo, rucola, parmezan. Alergeni: Gluten, Ouă, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19874881",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19874881",
+          "basePrice": 53,
+          "price": 53,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19875216",
+          "name": "Family Pomodoro - 1.250g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, măsline negre feliate, porumb (produs congelat), ciuperci, roșii felii, ardei gras. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19875216",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19875216",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19875259",
+          "name": "Family Mexiconi - 1.300g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, jambon, anghinare, legume mexicane (prudus congelat), măsline verzi întregi. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19875259",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19875259",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19875406",
+          "name": "Family Peperone - 1.350g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, salam de vară, șuncă Praga, pepperoncini, măsline verzi întregi, ardei iute. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19875406",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19875406",
+          "basePrice": 49.3,
+          "price": 49.3,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19875851",
+          "name": "Family Carcioso - 1.250g",
+          "description": "topping pizza First/mozzarella, sos de roșii, salam uscat, șuncă Praga, capere, anghinare, porumb (produs congelat), măsline negre feliate. Alergeni: Gluten, Lapte, Țelină, Soia, Nuci, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19875851",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19875851",
+          "basePrice": 55.8,
+          "price": 55.8,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876144",
+          "name": "Family Tonneli - 1.300g",
+          "description": "topping pizza First/mozzarella, sos de roșii, ton bucăți în suc propriu, lămâie, ceapă. Alergeni: Gluten, Pește, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876144",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876144",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876262",
+          "name": "Family Oliva - 1.250g",
+          "description": "topping pizza First/mozzarella, sos de roșii, jambon, ciuperci, măsline verzi întregi, măsline negre feliate. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876262",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876262",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876442",
+          "name": "Family Jamboneli - 1.250g",
+          "description": "topping pizza First/mozzarella, sos de roșii, jambon, ciuperci, porumb (produs congelat), măsline verzi întregi. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876442",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876442",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876514",
+          "name": "Family Pollorico Polloloco - 1.400g",
+          "description": "topping pizza First/mozzarella, sos de roșii, piept de pui (produs congelat), șuncă de pui, porumb (produs congelat), ardei gras, măsline negre feliate. Alergeni: Gluten, Lapte, Țelină, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876514",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876514",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876643",
+          "name": "Family Capperi - 1.300g",
+          "description": "topping pizza First/mozzarella, sos de roșii, mușchi file, capere, porumb (produs congelat), ardei gras, măsline negre feliate. Alergeni: Gluten, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876643",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876643",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876752",
+          "name": "Family Banateli - 1.300g",
+          "description": "topping pizza First/mozzarella, sos de roșii, șuncă Praga, salam bănățean, ciuperci, anghinare, măsline negre feliate. Alergeni: Gluten, Lapte, Țelină, Muștar, Soia",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876752",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876752",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "19876793",
+          "name": "Family Lolek Și Bolek - 1.350g",
+          "description": "topping pizza First/mozzarella, sos de roșii, jambon, șuncă Praga, ciuperci, porumb (produs congelat), măsline negre feliate. Alergeni: Gluten, Soia, Lapte, Țelină",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19876793",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19876793",
+          "basePrice": 52.2,
+          "price": 52.2,
+          "attributeGroups": [
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        }
+      ],
+      "name": "Pizza Family",
+      "position": 3,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19874881"
+    },
+    {
+      "id": "74051212",
+      "items": [
+        {
+          "id": "5876175",
+          "name": "SUPER COMBO 1",
+          "description": "Party Multipizza - 2.000g + Party Carnivora - 1.900g + 2x Coca-Cola - 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5876175",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5876175",
+          "basePrice": 160,
+          "price": 160,
+          "attributeGroups": [
+            {
+              "id": "81619367",
+              "title": "OFERTA SUPER COMBO 1",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81619611",
+                  "name": "Party Multipizza - 2.000g",
+                  "price": 0
+                },
+                {
+                  "id": "81619701",
+                  "name": "Party Carnivora - 1.900g",
+                  "price": 0
+                },
+                {
+                  "id": "81642046",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92741397",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92741495",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            }
+          ]
+        },
+        {
+          "id": "5876605",
+          "name": "SUPER COMBO 2",
+          "description": "Party Quatro Stagioni - 1.600g + Party Brasoveana - 1.750g + 2x Coca-Cola - 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5876605",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5876605",
+          "basePrice": 151,
+          "price": 151,
+          "attributeGroups": [
+            {
+              "id": "81628963",
+              "title": "OFERTA SUPER COMBO 2",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81629125",
+                  "name": "Party Quatro Stagioni - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81629258",
+                  "name": "Party Braşoveană - 1.750g",
+                  "price": 0
+                },
+                {
+                  "id": "81642682",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92741745",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92741833",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5877091",
+          "name": "SUPER COMBO 3",
+          "description": "Party Brasoveana - 1.750g + Party Deluxe - 2.100g + 2x Coca-Cola - 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5877091",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5877091",
+          "basePrice": 164,
+          "price": 164,
+          "attributeGroups": [
+            {
+              "id": "81629651",
+              "title": "OFERTA SUPER COMBO 3",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81629894",
+                  "name": "Party Braşoveană - 1.750g",
+                  "price": 0
+                },
+                {
+                  "id": "81630029",
+                  "name": "Party Deluxe - 2.100g",
+                  "price": 0
+                },
+                {
+                  "id": "81642929",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92742006",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92742120",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5877496",
+          "name": "SUPER COMBO 4",
+          "description": "Party Suprema - 2.200g + Party Taraneasca - 1.700g + 2x Coca-Cola - 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5877496",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5877496",
+          "basePrice": 160,
+          "price": 160,
+          "attributeGroups": [
+            {
+              "id": "81641507",
+              "title": "OFERTA SUPER COMBO 4",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81641574",
+                  "name": "Party Suprema - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81641733",
+                  "name": "Party Ţărănească - 1.700g",
+                  "price": 0
+                },
+                {
+                  "id": "81641785",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92742738",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "92742983",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5877812",
+          "name": "SUPER COMBO 5",
+          "description": "Party Quatro Stagioni - 1.600g + Party Prosciutto e Funghi - 1.500g + 1 Coca-Cola - 1l + 1 Tort de inghetata - 1000 ml",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5877812",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5877812",
+          "basePrice": 149,
+          "price": 149,
+          "attributeGroups": [
+            {
+              "id": "81643408",
+              "title": "OFERTA SUPER COMBO 5",
+              "min": 4,
+              "max": 4,
+              "attributes": [
+                {
+                  "id": "81645834",
+                  "name": "Party Quatro Stagioni - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81645965",
+                  "name": "Party Prosciutto e Funghi - 1.500g",
+                  "price": 0
+                },
+                {
+                  "id": "81646082",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81649003",
+                  "name": "Tort inghetata 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96579687",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96579945",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5877907",
+          "name": "SUPER COMBO 6",
+          "description": "Party Multipizza - 2.000g + Party Deluxe - 2.100g + 1 Coca-Cola - 1l + 1 Tort de inghetata - 1000 ml",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5877907",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5877907",
+          "basePrice": 173,
+          "price": 173,
+          "attributeGroups": [
+            {
+              "id": "81650730",
+              "title": "OFERTA SUPER COMBO 6",
+              "min": 4,
+              "max": 4,
+              "attributes": [
+                {
+                  "id": "81650964",
+                  "name": "Party Multipizza - 2.000g",
+                  "price": 0
+                },
+                {
+                  "id": "81651127",
+                  "name": "Party Deluxe - 2.100g",
+                  "price": 0
+                },
+                {
+                  "id": "81651281",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81651487",
+                  "name": "Tort inghetata 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96579687",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96579945",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5878408",
+          "name": "SUPER COMBO 7",
+          "description": "Party Suprema - 2.200g + Party Chicken Deluxe - 2.200g + 1 Coca-Cola - 1l + 1 Tort de inghetata - 1000 ml",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5878408",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5878408",
+          "basePrice": 178,
+          "price": 178,
+          "attributeGroups": [
+            {
+              "id": "81651692",
+              "title": "OFERTA SUPER COMBO 7",
+              "min": 4,
+              "max": 4,
+              "attributes": [
+                {
+                  "id": "81654542",
+                  "name": "Party Suprema - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81654707",
+                  "name": "Party Chicken Deluxe - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81655097",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81656307",
+                  "name": "Tort inghetata 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96579687",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96579945",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5878749",
+          "name": "SUPER COMBO 8",
+          "description": "Party Prosciutto e Funghi - 1.500g + Party Brașoveană - 1.750g + 1 Coca-Cola - 1l + 1 Tort de inghetata - 1000 ml",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5878749",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5878749",
+          "basePrice": 151,
+          "price": 151,
+          "attributeGroups": [
+            {
+              "id": "81651774",
+              "title": "OFERTA SUPER COMBO 8",
+              "min": 4,
+              "max": 4,
+              "attributes": [
+                {
+                  "id": "81658369",
+                  "name": "Party Prosciutto e Funghi - 1.500g",
+                  "price": 0
+                },
+                {
+                  "id": "81658455",
+                  "name": "Party Braşoveană - 1.750g",
+                  "price": 0
+                },
+                {
+                  "id": "81658547",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81658736",
+                  "name": "Tort inghetata 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96579687",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96579945",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5879132",
+          "name": "SUPER COMBO 9",
+          "description": "Party Margherita - 1.400g + Party Carnivora - 1.900g + 1 sticla de vin rosu Premiat + 1 sticla de vin alb Premiat + 1 Coca-Cola - 1l + 1 Sprite - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5879132",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5879132",
+          "basePrice": 155,
+          "price": 155,
+          "attributeGroups": [
+            {
+              "id": "81651840",
+              "title": "OFERTA SUPER COMBO 9",
+              "min": 6,
+              "max": 6,
+              "attributes": [
+                {
+                  "id": "81658932",
+                  "name": "Party Margherita - 1.400g",
+                  "price": 0
+                },
+                {
+                  "id": "81659091",
+                  "name": "Party Carnivora - 1.900g",
+                  "price": 0
+                },
+                {
+                  "id": "81659374",
+                  "name": "Vin alb Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81659472",
+                  "name": "Vin rosu Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81659689",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81659853",
+                  "name": "Sprite - 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96534060",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96534951",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 2
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5879173",
+          "name": "SUPER COMBO 10",
+          "description": "Party Capriciosa - 1.550g + Party Royal - 2.200g + 1 sticla de vin rosu Premiat + 1 sticla de vin alb Premiat + 1 Coca-Cola - 1l + 1 Sprite - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5879173",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5879173",
+          "basePrice": 160,
+          "price": 160,
+          "attributeGroups": [
+            {
+              "id": "81652050",
+              "title": "OFERTA SUPER COMBO 10",
+              "min": 6,
+              "max": 6,
+              "attributes": [
+                {
+                  "id": "81659935",
+                  "name": "Party Capriciosa - 1.550g",
+                  "price": 0
+                },
+                {
+                  "id": "81660048",
+                  "name": "Party Royal - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81660184",
+                  "name": "Vin alb Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81660505",
+                  "name": "Vin rosu Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81660696",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81660890",
+                  "name": "Sprite - 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96534060",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96534951",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 2
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5879207",
+          "name": "SUPER COMBO 11",
+          "description": "Party Royal - 2.200g + Party Brașoveană - 1.750g + 1 sticla de vin rosu Premiat + 1 sticla de vin alb Premiat + 1 Coca-Cola - 1l + 1 Sprite - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5879207",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5879207",
+          "basePrice": 166,
+          "price": 166,
+          "attributeGroups": [
+            {
+              "id": "81652166",
+              "title": "OFERTA SUPER COMBO 11",
+              "min": 6,
+              "max": 6,
+              "attributes": [
+                {
+                  "id": "81661607",
+                  "name": "Party Royal - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81661770",
+                  "name": "Party Braşoveană - 1.750g",
+                  "price": 0
+                },
+                {
+                  "id": "81662693",
+                  "name": "Vin alb Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81662996",
+                  "name": "Vin rosu Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81663251",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81665163",
+                  "name": "Sprite - 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96534060",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96534951",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 2
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5879273",
+          "name": "SUPER COMBO 12",
+          "description": "Party Multipizza - 2.000g + Party Suprema - 2.200g + 1 sticla de vin rosu Premiat + 1 sticla de vin alb Premiat + 1 Coca-Cola - 1l + 1 Sprite - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5879273",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5879273",
+          "basePrice": 176,
+          "price": 176,
+          "attributeGroups": [
+            {
+              "id": "81652211",
+              "title": "OFERTA SUPER COMBO 12",
+              "min": 6,
+              "max": 6,
+              "attributes": [
+                {
+                  "id": "81668280",
+                  "name": "Party Multipizza - 2.000g",
+                  "price": 0
+                },
+                {
+                  "id": "81669159",
+                  "name": "Party Suprema - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81669311",
+                  "name": "Vin alb Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81669599",
+                  "name": "Vin rosu Premiat - 0,75l",
+                  "price": 0
+                },
+                {
+                  "id": "81669960",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81670040",
+                  "name": "Sprite - 1l",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "96534060",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "96534951",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 2
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5879931",
+          "name": "SUPER COMBO 13",
+          "description": "Party Quatro Stagioni - 1.600g + Party Brașoveană - 1.750g + 6x Bere Ciuc 0,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5879931",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5879931",
+          "basePrice": 159,
+          "price": 159,
+          "attributeGroups": [
+            {
+              "id": "81652277",
+              "title": "OFERTA SUPER COMBO 13",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "81670252",
+                  "name": "Party Quatro Stagioni - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81670396",
+                  "name": "Party Braşoveană - 1.750g",
+                  "price": 0
+                },
+                {
+                  "id": "81670517",
+                  "name": "Ciuc 0,5l x6",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70656211",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70657558",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 3
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5880086",
+          "name": "SUPER COMBO 14",
+          "description": "Party Quatro Stagioni - 1.600g + Party Prosciutto Salami - 1.600g + 6x Bere Ciuc 0,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5880086",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5880086",
+          "basePrice": 157,
+          "price": 157,
+          "attributeGroups": [
+            {
+              "id": "81653905",
+              "title": "OFERTA SUPER COMBO 14",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "81670821",
+                  "name": "Party Quatro Stagioni - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81670947",
+                  "name": "Party Prosciutto Salami - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81671778",
+                  "name": "Ciuc 0,5l x6",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70656211",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70657558",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 3
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5880192",
+          "name": "SUPER COMBO 15",
+          "description": "Party Multipizza - 2.000g + Party Royal - 2.200g + 6x Bere Ciuc 0,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5880192",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5880192",
+          "basePrice": 175,
+          "price": 175,
+          "attributeGroups": [
+            {
+              "id": "81654068",
+              "title": "OFERTA SUPER COMBO 15",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "81671981",
+                  "name": "Party Multipizza - 2.000g",
+                  "price": 0
+                },
+                {
+                  "id": "81673850",
+                  "name": "Party Royal - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81674177",
+                  "name": "Ciuc 0,5l x6",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70656211",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70657558",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 3
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5880288",
+          "name": "SUPER COMBO 16",
+          "description": "Party Quatro Stagioni - 1.600g + Party 3 Formagio - 1.600g + 6x Bere Ciuc 0,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5880288",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5880288",
+          "basePrice": 159,
+          "price": 159,
+          "attributeGroups": [
+            {
+              "id": "81654116",
+              "title": "OFERTA SUPER COMBO 16",
+              "min": 3,
+              "max": 3,
+              "attributes": [
+                {
+                  "id": "81674860",
+                  "name": "Party Quatro Stagioni - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81675141",
+                  "name": "Party 3 Formaggio - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81675859",
+                  "name": "Ciuc 0,5l x6",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70656211",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70657558",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 3
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19878100",
+          "name": "SUPER COMBO 17",
+          "description": "Party Bada Bing - 1.600g + Party Brașoveană - 1.750g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19878100",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19878100",
+          "basePrice": 155,
+          "price": 155,
+          "attributeGroups": [
+            {
+              "id": "81654181",
+              "title": "OFERTA SUPER COMBO 17",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81676138",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81676318",
+                  "name": "Party Braşoveană - 1.750g",
+                  "price": 0
+                },
+                {
+                  "id": "81676686",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81676892",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81677076",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19878392",
+          "name": "SUPER COMBO 18",
+          "description": "Party Carnivora - 1.900g + Party Bada Bing - 1.600g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19878392",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19878392",
+          "basePrice": 161,
+          "price": 161,
+          "attributeGroups": [
+            {
+              "id": "81654202",
+              "title": "OFERTA SUPER COMBO 18",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81682050",
+                  "name": "Party Carnivora - 1.900g",
+                  "price": 0
+                },
+                {
+                  "id": "81682195",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81682272",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81682425",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81682539",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19880717",
+          "name": "SUPER COMBO 19",
+          "description": "Party Bada Bing - 1.600g + Party Royal - 2.200g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19880717",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19880717",
+          "basePrice": 165,
+          "price": 165,
+          "attributeGroups": [
+            {
+              "id": "81654222",
+              "title": "OFERTA SUPER COMBO 19",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81682665",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81683051",
+                  "name": "Party Royal - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81683229",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81683522",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81683655",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19880893",
+          "name": "SUPER COMBO 20",
+          "description": "Party Quatro Stagioni - 1.600g + Party Bada Bing - 1.600g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19880893",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19880893",
+          "basePrice": 156,
+          "price": 156,
+          "attributeGroups": [
+            {
+              "id": "81654234",
+              "title": "OFERTA SUPER COMBO 20",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81683842",
+                  "name": "Party Quatro Stagioni - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81684056",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81684170",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81684230",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81684626",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19883066",
+          "name": "SUPER COMBO 21",
+          "description": "Party Bada Bing - 1.600g + Party Prosciutto E Funghi - 1.500g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19883066",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19883066",
+          "basePrice": 155,
+          "price": 155,
+          "attributeGroups": [
+            {
+              "id": "81654256",
+              "title": "OFERTA SUPER COMBO 21",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81684854",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81685074",
+                  "name": "Party Prosciutto e Funghi - 1.500g",
+                  "price": 0
+                },
+                {
+                  "id": "81685186",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81685871",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81686266",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19883124",
+          "name": "SUPER COMBO 22",
+          "description": "Party Deluxe - 2.100g + Party Bada Bing - 1.600g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19883124",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19883124",
+          "basePrice": 163,
+          "price": 163,
+          "attributeGroups": [
+            {
+              "id": "81654312",
+              "title": "OFERTA SUPER COMBO 22",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81686755",
+                  "name": "Party Deluxe - 2.100g",
+                  "price": 0
+                },
+                {
+                  "id": "81686843",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81686996",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81687140",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81687289",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19883193",
+          "name": "SUPER COMBO 23",
+          "description": "Party Bada Bing - 1.600g + Party Suprema - 2.200g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19883193",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19883193",
+          "basePrice": 165,
+          "price": 165,
+          "attributeGroups": [
+            {
+              "id": "81654361",
+              "title": "OFERTA SUPER COMBO 23",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81687643",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81687793",
+                  "name": "Party Suprema - 2.200g",
+                  "price": 0
+                },
+                {
+                  "id": "81688003",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81688894",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81689184",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "19883257",
+          "name": "SUPER COMBO 24",
+          "description": "Party Multipizza - 2.000g + Party Bada Bing - 1.600g + 1 Coca-Cola 1l + 1 Fanta 1l + Profiterol - 150g",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-19883257",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-19883257",
+          "basePrice": 163,
+          "price": 163,
+          "attributeGroups": [
+            {
+              "id": "81654428",
+              "title": "OFERTA SUPER COMBO 24",
+              "min": 5,
+              "max": 5,
+              "attributes": [
+                {
+                  "id": "81689315",
+                  "name": "Party Multipizza - 2.000g",
+                  "price": 0
+                },
+                {
+                  "id": "81689388",
+                  "name": "Party Bada Bing - 1.600g",
+                  "price": 0
+                },
+                {
+                  "id": "81689670",
+                  "name": "Coca-Cola - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81690117",
+                  "name": "Fanta - 1l",
+                  "price": 0
+                },
+                {
+                  "id": "81690218",
+                  "name": "Profiterol - 150g",
+                  "price": 0
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "53413841",
+              "title": "Adauga extra sosuri:",
+              "min": 0,
+              "max": 12,
+              "attributes": [
+                {
+                  "id": "53424214",
+                  "name": "Sos dulce 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424295",
+                  "name": "Sos picant 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424411",
+                  "name": "Sos de usturoi 80 ml",
+                  "price": 4.5
+                },
+                {
+                  "id": "53424495",
+                  "name": "Sos maioneza 80 ml",
+                  "price": 4.5
+                }
+              ],
+              "grsEnabled": false
+            },
+            {
+              "id": "70654850",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70655304",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 1
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        }
+      ],
+      "name": "SUPER COMBO",
+      "position": 4,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5876175"
+    },
+    {
+      "id": "74051251",
+      "items": [
+        {
+          "id": "2860371",
+          "name": "Sos dulce - 80 ml",
+          "description": "Alergeni: Gluten, Ouă, Soia, Lapte, Țelină, Muștar, Susan",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2860371",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2860371",
+          "basePrice": 4.5,
+          "price": 4.5
+        },
+        {
+          "id": "2886527",
+          "name": "Sos picant - 80 ml",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2886527",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2886527",
+          "basePrice": 4.5,
+          "price": 4.5
+        },
+        {
+          "id": "2886555",
+          "name": "Sos de usturoi - 80 ml",
+          "description": "Alergeni: Lapte",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2886555",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2886555",
+          "basePrice": 4.5,
+          "price": 4.5
+        },
+        {
+          "id": "2886579",
+          "name": "Sos maioneza - 80 ml",
+          "description": "Alergeni: Ouă, Muștar",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2886579",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-2886579",
+          "basePrice": 4.5,
+          "price": 4.5
+        }
+      ],
+      "name": "Sosuri",
+      "position": 5,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-2860371"
+    },
+    {
+      "id": "74051274",
+      "items": [
+        {
+          "id": "5873610",
+          "name": "Apa minerala Borsec - 1,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873610",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873610",
+          "basePrice": 7.5,
+          "price": 7.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5873108",
+          "name": "Coca-Cola - 0,33l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873108",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873108",
+          "basePrice": 7.5,
+          "price": 7.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5873141",
+          "name": "Fanta - 0,33l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873141",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873141",
+          "basePrice": 7.5,
+          "price": 7.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5873152",
+          "name": "Sprite - 0,33l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873152",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873152",
+          "basePrice": 7.5,
+          "price": 7.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "3484126",
+          "name": "Coca-Cola - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-3484126",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-3484126",
+          "basePrice": 10.5,
+          "price": 10.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "3484310",
+          "name": "Fanta - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-3484310",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-3484310",
+          "basePrice": 10.5,
+          "price": 10.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "3484353",
+          "name": "Sprite - 1l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-3484353",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-3484353",
+          "basePrice": 10.5,
+          "price": 10.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5873380",
+          "name": "Coca-Cola - 2l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873380",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873380",
+          "basePrice": 14.5,
+          "price": 14.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5873416",
+          "name": "Fanta - 2l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873416",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873416",
+          "basePrice": 14.5,
+          "price": 14.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5873451",
+          "name": "Sprite - 2l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873451",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5873451",
+          "basePrice": 14.5,
+          "price": 14.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        }
+      ],
+      "name": "Racoritoare",
+      "position": 6,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5873610"
+    },
+    {
+      "id": "74051449",
+      "items": [
+        {
+          "id": "5874035",
+          "name": "Bere Ciuc - 0,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5874035",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5874035",
+          "basePrice": 6,
+          "price": 6,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5874066",
+          "name": "Bere Tuborg - 0,5l",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5874066",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5874066",
+          "basePrice": 6,
+          "price": 6,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5874134",
+          "name": "Vin alb Premiat - 0,75l",
+          "description": "demisec",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5874134",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5874134",
+          "basePrice": 13.5,
+          "price": 13.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        },
+        {
+          "id": "5874175",
+          "name": "Vin rosu Premiat - 0,75l",
+          "description": "demisec",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5874175",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5874175",
+          "basePrice": 13.5,
+          "price": 13.5,
+          "attributeGroups": [
+            {
+              "id": "70554849",
+              "title": "Garanție ambalaj SGR",
+              "min": 1,
+              "max": 1,
+              "attributes": [
+                {
+                  "id": "70556411",
+                  "name": "Garanție ambalaj SGR",
+                  "price": 0.5
+                }
+              ],
+              "grsEnabled": true
+            }
+          ]
+        }
+      ],
+      "name": "Bauturi alcoolice",
+      "position": 7,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5874035"
+    },
+    {
+      "id": "74051469",
+      "items": [
+        {
+          "id": "4718522",
+          "name": "Tort inghetata 1l",
+          "description": "Alergeni: Gluten, Arahide, Soia, Lapte, Nuci",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-4718522",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-4718522",
+          "basePrice": 17,
+          "price": 17
+        },
+        {
+          "id": "5875627",
+          "name": "Profiterol - 150g",
+          "description": "Alergeni: Gluten, Ouă, Arahide, Soia, Lapte, Nuci",
+          "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-5875627",
+          "thumbnailUrl": "https://storage.googleapis.com/boogit-pos/item-thumb-5875627",
+          "basePrice": 20,
+          "price": 20
+        }
+      ],
+      "name": "Desert",
+      "position": 8,
+      "imageUrl": "https://storage.googleapis.com/boogit-pos/item-img-4718522"
+    }
+  ]
+}

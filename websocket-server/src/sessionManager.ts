@@ -116,10 +116,13 @@ function handleFrontendMessage(data: RawData) {
 }
 
 function tryConnectModel() {
+  console.log("tryConnectModel to WS server.");
   if (!session.twilioConn || !session.streamSid || !session.openAIApiKey)
     return;
   if (isOpen(session.modelConn)) return;
+  console.log(`tryConnectModel 2 ${session.openAIApiKey}`);
 
+  // TODO - check here
   session.modelConn = new WebSocket(
     "wss://api.openai.com/v1/realtime?model=gpt-4o-realtime-preview-2024-12-17",
     {
@@ -131,6 +134,7 @@ function tryConnectModel() {
   );
 
   session.modelConn.on("open", () => {
+    console.log("Connected to WS server.");
     const config = session.saved_config || {};
     jsonSend(session.modelConn, {
       type: "session.update",
@@ -159,10 +163,12 @@ function handleModelMessage(data: RawData) {
 
   switch (event.type) {
     case "input_audio_buffer.speech_started":
+      console.log("input_audio_buffer.speech_started");
       handleTruncation();
       break;
 
     case "response.audio.delta":
+      console.log("response.audio.delta");
       if (session.twilioConn && session.streamSid) {
         if (session.responseStartTimestamp === undefined) {
           session.responseStartTimestamp = session.latestMediaTimestamp || 0;
@@ -183,6 +189,7 @@ function handleModelMessage(data: RawData) {
       break;
 
     case "response.output_item.done": {
+      console.log("response.output_item.done");
       const { item } = event;
       if (item.type === "function_call") {
         handleFunctionCall(item)
@@ -240,12 +247,14 @@ function handleTruncation() {
 }
 
 function closeModel() {
+  console.log("closeModel");
   cleanupConnection(session.modelConn);
   session.modelConn = undefined;
   if (!session.twilioConn && !session.frontendConn) session = {};
 }
 
 function closeAllConnections() {
+  console.log("closeAllConnections");
   if (session.twilioConn) {
     session.twilioConn.close();
     session.twilioConn = undefined;
@@ -266,6 +275,7 @@ function closeAllConnections() {
 }
 
 function cleanupConnection(ws?: WebSocket) {
+  console.log("cleanupConnection");
   if (isOpen(ws)) ws.close();
 }
 

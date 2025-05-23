@@ -26,7 +26,12 @@ const SessionConfigurationPanel: React.FC<SessionConfigurationPanelProps> = ({
   onSave,
 }) => {
   const [instructions, setInstructions] = useState(
-    "You are a helpful assistant in a phone call."
+    "You will talk exclusively in Romanian language. No exceptions." +
+    "You are a phone operator taking pizza orders for Bada Bing pizzeria in Brasov. " +
+    "You will greet customers with an appropriate expression, so they don't get the impression you are an AI robot. " + 
+    "It is important to collect the customer's name, phone number and address. " +
+    "You will get the food and drink options that can be ordered using the get_order_menu tool function. " +
+    "At the end of the order, after validating with the customer if the order is correct by listing the ordered items, you will place it using the place_order tool function."
   );
   const [voice, setVoice] = useState("ash");
   const [tools, setTools] = useState<string[]>([]);
@@ -57,6 +62,10 @@ const SessionConfigurationPanel: React.FC<SessionConfigurationPanelProps> = ({
       return () => clearTimeout(timer);
     }
   }, [saveStatus]);
+
+  useEffect(() => {
+    handleSave();
+  }, []);
 
   const handleSave = async () => {
     setSaveStatus("saving");

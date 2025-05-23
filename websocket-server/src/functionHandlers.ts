@@ -1,33 +1,69 @@
+import { BoogitService } from "./services/boogit/boogitService";
 import { FunctionHandler } from "./types";
 
 const functions: FunctionHandler[] = [];
 
 functions.push({
   schema: {
-    name: "get_weather_from_coords",
+    name: "get_menu",
     type: "function",
-    description: "Get the current weather",
+    description: "Get the restaurant menu",
     parameters: {
       type: "object",
-      properties: {
-        latitude: {
-          type: "number",
-        },
-        longitude: {
-          type: "number",
-        },
-      },
-      required: ["latitude", "longitude"],
-    },
+      properties: {},
+      required: []
+    }
   },
-  handler: async (args: { latitude: number; longitude: number }) => {
-    const response = await fetch(
-      `https://api.open-meteo.com/v1/forecast?latitude=${args.latitude}&longitude=${args.longitude}&current=temperature_2m,wind_speed_10m&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m`
-    );
-    const data = await response.json();
-    const currentTemp = data.current?.temperature_2m;
-    return JSON.stringify({ temp: currentTemp });
-  },
+  handler: async () => {
+    const menu = await new BoogitService().getMenu();
+    console.log("Menu fetched", menu);
+    return JSON.stringify(menu);
+  }
 });
+
+// functions.push({
+//   schema: {
+//     name: "place_order",
+//     type: "function",
+//     description: "Place a food order",
+//     // TODO: optimize the schma
+//     parameters: {
+//       type: "object", 
+//       properties: {
+//         items: {
+//           type: "array",
+//           description: "Array of menu items to order"
+//         },
+//         customerDetails: {
+//           type: "object",
+//           description: "Details of the customer placing the order"
+//         }
+//       },
+//       required: ["items", "customerDetails"]
+//     }
+//   },
+//   handler: async (args: {
+//     items: Array<{name: string, quantity: number}>,
+//     customerDetails: {
+//       name: string,
+//       address: string,
+//       phone: string
+//     }
+//   }) => {
+//     console.log("New order received:");
+//     console.log("Customer:", args.customerDetails);
+//     console.log("Order items:");
+//     args.items.forEach(item => {
+//       console.log(`- ${item.quantity}x ${item.name}`);
+//     });
+    
+//     return JSON.stringify({
+//       success: true,
+//       message: "Order placed successfully"
+//     });
+//   }
+// });
+
+
 
 export default functions;
