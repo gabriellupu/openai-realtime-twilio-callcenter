@@ -4,8 +4,8 @@ import axios from 'axios';
 
 const API_BASE_URL = 'https://pos.boogit.ro';
 
-// Define request interfaces
-interface ThirdPartyOrder {
+// Define request export interfaces
+export interface ThirdPartyOrder {
   clientId: string;
   orderId: string;
   type: 'PICKUP' | 'DELIVERY';
@@ -31,12 +31,12 @@ interface ThirdPartyOrder {
   pickupCode?: string;
 }
 
-interface ThirdPartyMenuRequest {
+export interface ThirdPartyMenuRequest {
   clientId: string;
   categories: any[]; // Could be typed further
 }
 
-interface ThirdPartyOrderStatusRequest {
+export interface ThirdPartyOrderStatusRequest {
   clientId: string;
   orderId: string;
   notes?: string;
@@ -48,7 +48,7 @@ const headers = (authToken: string) => ({
   Authorization: authToken,
 });
 
-export class BoogiTService {
+export class BoogitApi {
   static async saveOrder(order: ThirdPartyOrder, auth: string) {
     return axios.post(`${API_BASE_URL}/api/v1/int/orders/generic`, order, {
       headers: headers(auth),

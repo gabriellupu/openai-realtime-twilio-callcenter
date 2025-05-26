@@ -1,4 +1,4 @@
-import { BoogiTService } from './boogitApi';
+import { BoogitApi, ThirdPartyOrder } from './boogitApi';
 import {extractMenuFromStaticFile} from '../glovo/glovoService';
 
 export class BoogitService {
@@ -61,8 +61,8 @@ export class BoogitService {
   /**
    * Save an order to Boogit POS
    */
-  async saveOrder(order: any) {
-    return BoogiTService.saveOrder({
+  async saveOrder(order: ThirdPartyOrder) {
+    return BoogitApi.saveOrder({
       ...order,
       clientId: this.clientId
     }, this.authToken);
@@ -72,7 +72,7 @@ export class BoogitService {
    * Cancel an order in Boogit POS
    */
   async cancelOrder(orderId: string, notes?: string) {
-    return BoogiTService.webhookCancelOrder({
+    return BoogitApi.webhookCancelOrder({
       clientId: this.clientId,
       orderId,
       notes
@@ -83,7 +83,7 @@ export class BoogitService {
    * Confirm an order in Boogit POS
    */
   async confirmOrder(orderId: string, duration: number, notes?: string) {
-    return BoogiTService.webhookConfirmOrder({
+    return BoogitApi.webhookConfirmOrder({
       clientId: this.clientId,
       orderId,
       duration,
@@ -95,7 +95,7 @@ export class BoogitService {
    * Save menu to Boogit POS
    */
   async saveMenu(menuData: any) {
-    return BoogiTService.webhookSaveMenu({
+    return BoogitApi.webhookSaveMenu({
       ...menuData,
       clientId: this.clientId
     }, this.authToken);
@@ -112,7 +112,7 @@ export class BoogitService {
       return cachedData;
     }
 
-    const response = await BoogiTService.getReceipts(
+    const response = await BoogitApi.getReceipts(
       parseInt(this.clientId),
       startDate,
       endDate,
