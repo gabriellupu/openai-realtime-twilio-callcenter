@@ -124,7 +124,7 @@ function tryConnectModel() {
 
   // TODO - check here
   session.modelConn = new WebSocket(
-    "wss://api.openai.com/v1/realtime?model=gpt-4o-realtime-preview-2024-12-17",
+    "wss://api.openai.com/v1/realtime?model=gpt-4o-realtime-preview-2025-06-03",
     {
       headers: {
         Authorization: `Bearer ${session.openAIApiKey}`,
